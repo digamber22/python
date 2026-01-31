@@ -15,7 +15,7 @@ File Modes:
 'w' (Write): Creates a new file or overwrites an existing one.
 'r' (Read): Opens a file for reading (default mode).
 
-Why use with ? 
+Why use with ??
 
 It prevents memory leaks by guaranteeing the file closes.
 It simplifies the syntax (no need to remember file.close()).
