@@ -1,4 +1,4 @@
-# python virtual environment cheatsheet
+#  python virtual environment cheatsheet :-
 
 ## 1. create a new virtual environment
 `python -m venv env_name`
